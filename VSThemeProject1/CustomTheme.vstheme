@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSThemeProject1 (5)" GUID="{d782bfe1-6b65-4902-865f-6f18a44c71ec}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VSThemeProject1 (9)" GUID="{062c7b59-7758-4378-85bf-f8dc737c09e5}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF090C1D" />
@@ -1077,11 +1077,11 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF3399FF" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Inactive Selected Text">
         <Background Type="CT_RAW" Source="FF103156" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF829999" />
       </Color>
       <Color Name="Selected Text in High Contrast">
         <Background Type="CT_RAW" Source="FF00D2CB" />
@@ -1941,7 +1941,7 @@
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="AutoHideTabMouseOverText">
-        <Background Type="CT_RAW" Source="FF00D2CB" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="AutoHideTabMouseOverBackgroundBegin">
         <Background Type="CT_RAW" Source="FF0D101B" />
@@ -2325,7 +2325,7 @@
         <Background Type="CT_RAW" Source="FF0D101B" />
       </Color>
       <Color Name="DropShadowBackground">
-        <Background Type="CT_RAW" Source="72FFFFFF" />
+        <Background Type="CT_RAW" Source="7EABADB3" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientMiddle1">
         <Background Type="CT_RAW" Source="FF0D101B" />
@@ -3711,7 +3711,7 @@
       </Color>
       <Color Name="Dialog">
         <Background Type="CT_SYSCOLOR" Source="0000000F" />
-        <Foreground Type="CT_SYSCOLOR" Source="00000012" />
+        <Foreground Type="CT_RAW" Source="FFD0D0D0" />
       </Color>
       <Color Name="DiagReportLinkText">
         <Background Type="CT_RAW" Source="FF00D2CB" />
@@ -4258,11 +4258,11 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF3399FF" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Inactive Selected Text">
         <Background Type="CT_RAW" Source="FF103156" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF829999" />
       </Color>
       <Color Name="Selected Text in High Contrast">
         <Background Type="CT_RAW" Source="FF00D2CB" />
