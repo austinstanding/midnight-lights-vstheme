@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSThemeProject1", "VSThemeProject1\VSThemeProject1.csproj", "{578ABA5A-2D17-47DB-9A84-EDA0962D3ED9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midnight-Lights", "MidnightLightsProject\Midnight-Lights.csproj", "{578ABA5A-2D17-47DB-9A84-EDA0962D3ED9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
