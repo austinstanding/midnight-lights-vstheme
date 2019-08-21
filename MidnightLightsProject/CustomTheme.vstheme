@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSThemeProject1 (10)" GUID="{0c37b345-e7bd-408e-8671-5283e24c75a5}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="MidnightLights" GUID="{0c37b345-e7bd-408e-8671-5283e24c75a5}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF090C1D" />
