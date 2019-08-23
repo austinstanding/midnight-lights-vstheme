@@ -4148,7 +4148,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF111924" />
         <Foreground Type="CT_RAW" Source="FFD7DDE8" />
       </Color>
       <Color Name="outlining.square">
@@ -4698,7 +4698,7 @@
         <Foreground Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF111924" />
         <Foreground Type="CT_RAW" Source="FFD7DDE8" />
       </Color>
       <Color Name="outlining.square">
