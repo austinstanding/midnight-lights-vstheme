@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="MidnightLights" GUID="{0c37b345-e7bd-408e-8671-5283e24c75a5}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="MidnightLights" GUID="{19ffb64a-e5b9-48d7-905c-01fe7969567b}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF090C1D" />
@@ -747,7 +747,7 @@
       </Color>
       <Color Name="ArtboardBackgroundAlternate">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
-        <Foreground Type="CT_RAW" Source="FF111924" />
+        <Foreground Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="ArtboardSecondaryBackgroundAlternate">
         <Background Type="CT_RAW" Source="FFF0F0F0" />
@@ -2325,7 +2325,7 @@
         <Background Type="CT_RAW" Source="FF0D101B" />
       </Color>
       <Color Name="DropShadowBackground">
-        <Background Type="CT_RAW" Source="7EABADB3" />
+        <Background Type="CT_RAW" Source="7E00071B" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientMiddle1">
         <Background Type="CT_RAW" Source="FF0D101B" />
@@ -4281,7 +4281,7 @@
       </Color>
       <Color Name="InfoBarBackground">
         <Background Type="CT_RAW" Source="FFFEFCC8" />
-        <Foreground Type="CT_RAW" Source="FF111924" />
+        <Foreground Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="CloseButton">
         <Background Type="CT_RAW" Source="FFFFFFE1" />
@@ -4910,7 +4910,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Focused Border">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_RAW" Source="FF00D2CB" />
       </Color>
       <Color Name="Peek Background Unfocused">
@@ -4918,7 +4918,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Label Text">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Block Structure Adornments">
@@ -5091,7 +5091,7 @@
       </Color>
       <Color Name="RoslynRenameFieldBackgroundAndBorderTag">
         <Background Type="CT_RAW" Source="FFA6F1A6" />
-        <Foreground Type="CT_RAW" Source="FF111924" />
+        <Foreground Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="regex - comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5242,27 +5242,27 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Test Summary - Default">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Test Summary - Header">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Test Summary - Label">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Test Summary - Stack">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Test Summary - No Source">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Interactive Window Error Output">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="data.tools.diff.remove.line">
@@ -5302,7 +5302,7 @@
         <Foreground Type="CT_RAW" Source="FF2FDCD7" />
       </Color>
       <Color Name="HtmlClientTemplateSeparatorFormatDefinition">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="HtmlClientTemplateTagFormatDefinition">
@@ -5310,11 +5310,11 @@
         <Foreground Type="CT_RAW" Source="FF006400" />
       </Color>
       <Color Name="UnnecessaryCode">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="RoslynConflictTag">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="RoslynRenameConflictTag">
@@ -5418,7 +5418,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/VerticalHighlight">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
@@ -6908,11 +6908,11 @@
         <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Register Data Changed">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_RAW" Source="FFD85050" />
       </Color>
       <Color Name="Register NAT">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_RAW" Source="FF8F8F8F" />
       </Color>
       <Color Name="Text">
@@ -7046,7 +7046,7 @@
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="Selected Text">
@@ -7128,7 +7128,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Definition Window Background">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Definition Window Current Match">
@@ -7140,7 +7140,7 @@
         <Foreground Type="CT_RAW" Source="FF051B40" />
       </Color>
       <Color Name="Refactoring Background">
-        <Background Type="CT_RAW" Source="FF111924" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Code Snippet Dependent Field">
