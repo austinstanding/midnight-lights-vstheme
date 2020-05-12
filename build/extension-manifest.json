@@ -1,0 +1,21 @@
+{
+	"$schema": "http://json.schemastore.org/vsix-publish",
+	"categories": [
+		"Themes"
+	],
+	"identity": {
+		"internalName": "vsthememidnightlights",
+		"tags": [
+			"dark",
+			"theme",
+			"blue",
+			"darktheme"
+		]
+	},
+	"overview": "../README.md",
+	"priceCategory": "free",
+	"publisher": "austinstanding",
+	"private": false,
+	"qna": false,
+	"repo": "https://github.com/austinstanding/midnight-lights-vstheme"
+}
