@@ -8,11 +8,15 @@
 
 This is my first theme and you will probably find some quirks. This is a personal project, but feel free to [fork the repository](https://github.com/austinstanding/midnight-lights-vstheme)!
 
-CI/CD uses Azure DevOps, following [Meziantou's Blog](https://www.meziantou.net/ci-cd-pipeline-for-a-visual-studio-extension-vsix-using-azure-devops.htm).
-
 ## Installation
 
 After [installing the extension from the Marketplace](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightlights), the theme will be available in the dropdown under *Tools -> Options -> General*.
+
+## Misc
+
+CI/CD uses Azure DevOps, following [Meziantou's Blog](https://www.meziantou.net/ci-cd-pipeline-for-a-visual-studio-extension-vsix-using-azure-devops.htm).
+
+I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora), mostly for Rainbow Braces. I've added my Viasfora theme within the github repo as `viasfora-theme.json`. If you're a Viasfora user, themes can be exported/imported from *Tools -> Options -> Viasfora -> Import/Export*.
 
 ## Versions
 
