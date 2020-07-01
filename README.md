@@ -20,7 +20,11 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
-### v.1.1.1
+### v1.1.5
+
+- Modified peek background, updated theme icon
+
+### v1.1.1
 
 - Modified Razor code highlighting to better match theme
 
