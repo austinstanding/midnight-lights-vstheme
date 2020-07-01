@@ -4914,7 +4914,7 @@
         <Foreground Type="CT_RAW" Source="FF00D2CB" />
       </Color>
       <Color Name="Peek Background Unfocused">
-        <Background Type="CT_RAW" Source="FF252525" />
+        <Background Type="CT_RAW" Source="FF111924" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Label Text">
@@ -4930,7 +4930,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Highlighted Text Unfocused">
-        <Background Type="CT_RAW" Source="FF454545" />
+        <Background Type="CT_RAW" Source="FF111924" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="punctuation">
