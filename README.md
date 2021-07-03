@@ -2,11 +2,11 @@
 
 [![Build Status](https://dev.azure.com/austinstanding/Midnight%20Lights/_apis/build/status/Midnight%20Lights?branchName=master)](https://dev.azure.com/austinstanding/Midnight%20Lights/_build/latest?definitionId=3&branchName=master)
 
-🌌 **Midnight Lights** is a dark theme for Visual Studio 2019 and 2022, made with [Color Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner).
+🌌 **Midnight Lights** is an original dark blue theme for Visual Studio 2019 and 2022. For something darker, check out my new theme [⚫ **Midnight Deep**](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightdeep).
 
 ![Midnight Lights Screenshot](https://github.com/austinstanding/midnight-lights-vstheme/raw/master/images/screenshot1.png)
 
-This is my first theme and you will probably find some quirks. Check out my new theme [⚫ **Midnight Deep**](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightdeep) for fewer of those. This is a personal project, but feel free to [fork the repository](https://github.com/austinstanding/midnight-lights-vstheme)!
+This is my first theme and you will probably find some quirks. This is a personal project, but feel free to [fork the repository](https://github.com/austinstanding/midnight-lights-vstheme)!
 
 ## Installation
 
@@ -19,6 +19,11 @@ CI/CD uses Azure DevOps, following [Meziantou's Blog](https://www.meziantou.net/
 I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora), mostly for Rainbow Braces. I've added my Viasfora theme within the github repo as `viasfora-theme.json`. If you're a Viasfora user, themes can be exported/imported from *Tools -> Options -> Viasfora -> Import/Export*.
 
 ## Versions
+
+### v1.3.0
+
+- Add theming for vertical document tabs ✨
+- Add missing elements from standard dark theme ➕
 
 ### v1.2.0
 

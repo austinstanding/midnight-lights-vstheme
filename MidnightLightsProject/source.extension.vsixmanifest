@@ -4,11 +4,11 @@
                  xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="MidnightLights.e1e706e2-05d3-4da9-8754-652cd8ab65f4"
-                  Version="1.2"
+                  Version="1.3"
                   Language="en-US"
                   Publisher="Austin Standing" />
         <DisplayName>Midnight Lights</DisplayName>
-        <Description xml:space="preserve">Midnight Lights is a dark theme for Visual Studio, made with the new Color Theme Designer.</Description>
+        <Description xml:space="preserve">Midnight Lights is an original dark blue theme for Visual Studio.</Description>
         <MoreInfo>https://github.com/austinstanding/midnight-lights-vstheme</MoreInfo>
         <Icon>midnight_lights_preview.PNG</Icon>
         <PreviewImage>screenshot1.png</PreviewImage>
