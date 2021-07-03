@@ -4228,13 +4228,13 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="FileTabPrimarySeparator">
-        <Background Type="CT_RAW" Source="FF313132" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="FileTabSecondarySeparator">
-        <Background Type="CT_RAW" Source="FF46464A" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="FileTabIndicatorTextSelectedActive">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="FileTabIndicatorTextSelectedInactive">
         <Background Type="CT_RAW" Source="FF3F3F46" />
@@ -4249,13 +4249,13 @@
         <Background Type="CT_RAW" Source="FF9E9E9E" />
       </Color>
       <Color Name="FileTabScrollBarArrowGlyphHover">
-        <Background Type="CT_RAW" Source="FF9E9E9E" />
+        <Background Type="CT_RAW" Source="FF2FDCD7" />
       </Color>
       <Color Name="FileTabScrollBarThumbPressed">
         <Background Type="CT_RAW" Source="FFEFEBEF" />
       </Color>
       <Color Name="FileTabScrollBarArrowGlyphPressed">
-        <Background Type="CT_RAW" Source="FFEFEBEF" />
+        <Background Type="CT_RAW" Source="FF00D2CB" />
       </Color>
       <Color Name="MainWindowCloudEnvironmentActive">
         <Background Type="CT_RAW" Source="FFFEFCC8" />
@@ -4272,13 +4272,13 @@
         <Background Type="CT_RAW" Source="75FFFFFF" />
       </Color>
       <Color Name="FileTabGroupTitleBackground">
-        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Background Type="CT_RAW" Source="FF0D101B" />
       </Color>
       <Color Name="FileTabActiveGroupTitleBackground">
-        <Background Type="CT_RAW" Source="FF202023" />
+        <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="FileTabActiveGroupBackground">
-        <Background Type="CT_RAW" Source="FF27272A" />
+        <Background Type="CT_RAW" Source="FF0D101B" />
       </Color>
       <Color Name="ToolWindowValidationErrorBorder">
         <Background Type="CT_RAW" Source="FFE46364" />
