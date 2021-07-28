@@ -4769,7 +4769,7 @@
         <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
     </Category>
-    <Category Name="MatchMargin colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="MatchColor">
         <Background Type="CT_RAW" Source="FF006763" />
         <Foreground Type="CT_RAW" Source="FF841ECC" />
@@ -5474,6 +5474,130 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF2FDCD7" />
       </Color>
+	  <Color Name="CppMacroSemanticTokenFormat">
+		<Background Type="CT_INVALID" Source="00000000" />
+		<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppEnumSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FF056262" />
+	  </Color>
+	  <Color Name="CppGlobalVariableSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppLocalVariableSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppParameterSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppTypeSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppRefTypeSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppValueTypeSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppFunctionSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppMemberFunctionSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppMemberFieldSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppStaticMemberFieldSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppPropertySemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppEventSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppClassTemplateSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppGenericTypeSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppFunctionTemplateSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppNamespaceSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppLabelSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppUDLRawSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppUDLNumberSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FFCCCCCC" />
+	  </Color>
+	  <Color Name="CppUDLStringSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppOperatorSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppMemberOperatorSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppNewDeleteSemanticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FF2266A2" />
+	  </Color>
+	  <Color Name="CppSuggestedActionFormat">
+		<Background Type="CT_INVALID" Source="00000000" />
+		<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="C/C++ User Keywords">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FF2266A2" />
+	  </Color>
+	  <Color Name="CppControlKeywordSyntacticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_RAW" Source="FF2266A2" />
+	  </Color>
+	  <Color Name="CppStringEscapeCharacterSyntacticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
+	  <Color Name="CppStringDelimiterCharacterSyntacticTokenFormat">
+	  	<Background Type="CT_INVALID" Source="00000000" />
+	  	<Foreground Type="CT_INVALID" Source="00000000" />
+	  </Color>
       <Color Name="HtmlClientTemplateSeparatorFormatDefinition">
         <Background Type="CT_RAW" Source="FF090C1D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
