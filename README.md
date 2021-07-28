@@ -20,6 +20,10 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
+### v1.4.0
+
+- Add basic support for C++ colorization ✨
+
 ### v1.3.0
 
 - Add theming for vertical document tabs ✨
