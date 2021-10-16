@@ -20,7 +20,7 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
-### v1.4.2
+### v1.4.2-3
 
 - Improve contrast in accent light blue 🚸
 

@@ -79,7 +79,7 @@
         <Foreground Type="CT_RAW" Source="FFFFA500" />
       </Color>
       <Color Name="TrendsShapesRegular">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="TrendsShapesHighlighted">
         <Background Type="CT_RAW" Source="FFFFD700" />
@@ -657,7 +657,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="BreadcrumbButtonOnHover">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="BreadcrumbButtonSelected">
@@ -665,7 +665,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="BreadcrumbButtonSelectedOnHover">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ListHeader">
@@ -2466,7 +2466,7 @@
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="FileTabHotBorder">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="FileTabHotText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -3310,7 +3310,7 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Snaplines">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="SnaplinesPadding">
         <Background Type="CT_RAW" Source="FF96A9DD" />
@@ -3439,10 +3439,10 @@
         <Background Type="CT_RAW" Source="FF03A7A3" />
       </Color>
       <Color Name="FileTabHotGradientTop">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="FileTabHotGradientBottom">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="FileTabDocumentBorderShadow">
         <Background Type="CT_RAW" Source="FF03A7A3" />
@@ -3671,10 +3671,10 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedActive">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedActiveGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -4070,7 +4070,7 @@
         <Background Type="CT_RAW" Source="FF3E424F" />
       </Color>
       <Color Name="ScrollBarArrowGlyphMouseOver">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="ScrollBarBorder">
         <Background Type="CT_RAW" Source="FF1C1C1C" />
@@ -4249,7 +4249,7 @@
         <Background Type="CT_RAW" Source="FF9E9E9E" />
       </Color>
       <Color Name="FileTabScrollBarArrowGlyphHover">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="FileTabScrollBarThumbPressed">
         <Background Type="CT_RAW" Source="FFEFEBEF" />
@@ -5683,7 +5683,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek History Hovered">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="BraceCompletionClosingBrace">
@@ -6874,10 +6874,10 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="SecondaryTabHoverGlyphHoverBackground">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="SecondaryTabHoverGlyphHoverBorder">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="SecondaryTabHoverGlyphPressed">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -6916,10 +6916,10 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="SecondarySelectedTabGlyphHoverBackground">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="SecondarySelectedTabGlyphHoverBorder">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="SecondarySelectedTabGlyphPressed">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -6946,10 +6946,10 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="SecondaryTabFocusedGlyphHoverBackground">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="SecondaryTabFocusedGlyphHoverBorder">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="SecondaryTabFocusedGlyphPressed">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -7056,7 +7056,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonPressedBorder">
-        <Background Type="CT_RAW" Source="FF2FDCD7" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="CallToActionButton">
         <Background Type="CT_RAW" Source="FF03A7A3" />
