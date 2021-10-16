@@ -20,6 +20,10 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
+### v1.4.2
+
+- Improve contrast in accent light blue 🚸
+
 ### v1.4.1
 
 - Fix breaking change introduced in VS 2022 Preview 4.1 🩹
