@@ -4,7 +4,7 @@
 
 🌌 **Midnight Lights** is an original dark blue theme for Visual Studio 2019 and 2022. For something darker, check out my new theme [⚫ **Midnight Deep**](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightdeep).
 
-![Midnight Lights Screenshot](https://github.com/austinstanding/midnight-lights-vstheme/raw/master/images/screenshot1.png)
+![Midnight Lights Screenshot](https://github.com/austinstanding/midnight-lights-vstheme/raw/master/MidnightLightsProject/screenshot1.png)
 
 This is my first theme and you will probably find some quirks. This is a personal project, but feel free to [fork the repository](https://github.com/austinstanding/midnight-lights-vstheme)!
 
@@ -20,9 +20,9 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
-### v1.4.2-3
+### v1.5
 
-- Improve contrast in accent light blue 🚸
+- Improve contrast in accent highlights and hovers 🚸
 
 ### v1.4.1
 
