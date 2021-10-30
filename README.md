@@ -20,6 +20,10 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ## Versions
 
+### v1.5.1
+
+- Improve contrast in merge conflict window 🚸
+
 ### v1.5
 
 - Improve contrast in accent highlights and hovers 🚸

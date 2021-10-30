@@ -4902,8 +4902,12 @@
         <Background Type="CT_RAW" Source="FF590D0D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
+      <Color Name="mergeEditor.ConflictMismatchLine">
+        <Background Type="CT_RAW" Source="FF9D6807" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
       <Color Name="mergeEditor.NotAcceptedLine">
-        <Background Type="CT_RAW" Source="FF181C18" />
+        <Background Type="CT_RAW" Source="FF9D6807" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="mergeEditor.DeletedNegativeSpace">
@@ -4928,6 +4932,14 @@
       </Color>
       <Color Name="mergeEditor.SelectionBox">
         <Background Type="CT_RAW" Source="FF8CF1EF" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="mergeEditor.WordDiffBoxConflict">
+        <Background Type="CT_RAW" Source="FF69462B" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="mergeEditor.WordDiffBoxAccepted">
+        <Background Type="CT_RAW" Source="FF596C42" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="XML Doc Comment">
