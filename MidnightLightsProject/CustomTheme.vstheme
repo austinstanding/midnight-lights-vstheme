@@ -2636,8 +2636,8 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Container">
-        <Background Type="CT_RAW" Source="FFF8F8F8" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF111924" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
     </Category>
     <Category Name="CommonDocumentCard" GUID="{2e129498-0d2d-43ca-94d6-c652c0132543}">

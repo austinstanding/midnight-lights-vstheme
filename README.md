@@ -22,6 +22,7 @@ I like to extend my theme with [Viasfora](https://marketplace.visualstudio.com/i
 
 ### v1.5.2
 
+- Dim common bright backgrounds 😎
 - Minor tweak for ReSharper users 👽️
 
 ### v1.5.1
