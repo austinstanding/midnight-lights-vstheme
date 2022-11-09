@@ -10,7 +10,7 @@ This is my first theme and you will probably find some quirks. This is a persona
 
 ## Installation
 
-After [installing the extension from the Marketplace](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightlights), the theme will be available in the dropdown under *Tools -> Options -> General*.
+After [installing the extension from the Marketplace](https://marketplace.visualstudio.com/items?itemName=AustinStanding.vsthememidnightlights), the theme will be available in the dropdown under *Tools -> Theme* or *Tools -> Options -> General*.
 
 ## Misc
 
