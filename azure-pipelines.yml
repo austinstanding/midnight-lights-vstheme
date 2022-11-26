@@ -5,7 +5,7 @@ pool:
   vmImage: 'windows-2019' # Windows Server 2019 with Visual Studio 2019
 
 variables:
-  major: 6
+  major: 7
   # minor will be incremented at each build. This is useful to create a unique build version.
   minor: $[counter(variables['major'], 0)]
   solution: '**/*.sln'

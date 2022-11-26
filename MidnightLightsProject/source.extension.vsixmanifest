@@ -4,7 +4,7 @@
                  xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="MidnightLights.e1e706e2-05d3-4da9-8754-652cd8ab65f4"
-                  Version="1.6"
+                  Version="1.7"
                   Language="en-US"
                   Publisher="Austin Standing" />
         <DisplayName>Midnight Lights</DisplayName>
@@ -19,6 +19,9 @@
 		</InstallationTarget>
 		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,18.0)">
 			<ProductArchitecture>amd64</ProductArchitecture>
+		</InstallationTarget>
+		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,18.0)">
+			<ProductArchitecture>arm64</ProductArchitecture>
 		</InstallationTarget>
     </Installation>
     <Dependencies>
