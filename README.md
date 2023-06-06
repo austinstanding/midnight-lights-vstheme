@@ -20,6 +20,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v1.7.1
+
+- Support 17.6 native rainbow braces ✨
+
 ### v1.7
 
 - Add support for arm64 🔧

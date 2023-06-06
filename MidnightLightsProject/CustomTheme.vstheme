@@ -1579,6 +1579,22 @@
         <Background Type="CT_RAW" Source="FF067B7A" />
         <Foreground Type="CT_AUTOMATIC" Source="00000000" />
       </Color>
+      <Color Name="brace pair level one">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE6E600" />
+      </Color>
+      <Color Name="brace pair level two">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF00E699" />
+      </Color>
+      <Color Name="brace pair level three">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD600E6" />
+      </Color>
+      <Color Name="mismatched brace">
+        <Background Type="CT_RAW" Source="FFD2143A" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
       <Color Name="Stale Code">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF9B9B9B" />
