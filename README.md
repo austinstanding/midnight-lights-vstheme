@@ -20,6 +20,11 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v1.7.2-4
+
+- Add "Theme" to title for SEO 🔍
+- Support recently added themed items
+
 ### v1.7.1
 
 - Support 17.6 native rainbow braces ✨

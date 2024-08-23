@@ -7,7 +7,7 @@
                   Version="1.7"
                   Language="en-US"
                   Publisher="Austin Standing" />
-        <DisplayName>Midnight Lights</DisplayName>
+        <DisplayName>Midnight Lights Theme</DisplayName>
         <Description xml:space="preserve">Midnight Lights is an original dark blue theme for Visual Studio 2019 and 2022.</Description>
         <MoreInfo>https://github.com/austinstanding/midnight-lights-vstheme</MoreInfo>
         <Icon>midnight_lights_preview.png</Icon>

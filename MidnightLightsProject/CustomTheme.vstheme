@@ -44,6 +44,23 @@
         <Foreground Type="CT_RAW" Source="FF103156" />
       </Color>
     </Category>
+    <Category Name="AI" GUID="{7730ec54-ee62-4fd2-86cc-77071aabb206}">
+      <Color Name="PrimaryHighlight">
+        <Background Type="CT_RAW" Source="FF03A7A3" />
+      </Color>
+      <Color Name="PromptSuggestionBorder">
+        <Background Type="CT_RAW" Source="5C03A7A3" />
+      </Color>
+      <Color Name="TagAdornerBackground">
+        <Background Type="CT_RAW" Source="C2F3F3F3" />
+      </Color>
+      <Color Name="TagAdornerBorder">
+        <Background Type="CT_RAW" Source="FFE8E8E8" />
+      </Color>
+      <Color Name="TagAdornerForeground">
+        <Background Type="CT_RAW" Source="E4000000" />
+      </Color>
+    </Category>
     <Category Name="ApplicationInsights" GUID="{fb17cf37-09ea-44a4-88a6-cd806fc6a24a}">
       <Color Name="ButtonBorder">
         <Background Type="CT_RAW" Source="FF03A7A3" />
@@ -133,6 +150,20 @@
       <Color Name="SelectedText">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+    </Category>
+    <Category Name="Chat" GUID="{9e237087-2ccf-49c1-8c85-974b201581e3}">
+      <Color Name="BubbleOtherBackground">
+        <Background Type="CT_RAW" Source="FFF5F5F5" />
+      </Color>
+      <Color Name="BubbleOtherBorder">
+        <Background Type="CT_RAW" Source="FFF5F5F5" />
+      </Color>
+      <Color Name="BubbleSelfBackground">
+        <Background Type="CT_RAW" Source="1F03A7A3" />
+      </Color>
+      <Color Name="BubbleSelfBorder">
+        <Background Type="CT_RAW" Source="1F03A7A3" />
       </Color>
     </Category>
     <Category Name="Cider" GUID="{92d153ee-57d7-431f-a739-0931ca3f7f70}">
@@ -1071,6 +1102,31 @@
       </Color>
     </Category>
     <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+      <Color Name="inlay hints parameter">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="inlay hints type">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="inline diagnostics - compiler warning">
+        <Background Type="CT_RAW" Source="FF95DB7D" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="inline diagnostics - Edit and Continue">
+        <Background Type="CT_RAW" Source="FF800080" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="inline diagnostics - syntax error">
+        <Background Type="CT_RAW" Source="FFFC3E36" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="inline hints">
+        <Background Type="CT_RAW" Source="FF39393B" />
+        <Foreground Type="CT_RAW" Source="FF686868" />
+      </Color>
+
       <Color Name="MatchColor">
         <Background Type="CT_RAW" Source="FF006763" />
         <Foreground Type="CT_RAW" Source="FF841ECC" />
@@ -1110,6 +1166,14 @@
       <Color Name="CodeReview.UnselectedComment.AnchorPoint">
         <Background Type="CT_RAW" Source="FF067B7A" />
         <Foreground Type="CT_RAW" Source="FF5DE7E3" />
+      </Color>
+      <Color Name="MarkerFormatDefinition/CommentHighlight">
+        <Background Type="CT_RAW" Source="FF00008B" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="MarkerFormatDefinition/CommentMark">
+        <Background Type="CT_RAW" Source="FFADD8E6" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
         <Background Type="CT_RAW" Source="FF067B7A" />
@@ -1319,33 +1383,33 @@
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF808080" />
       </Color>
-      <Color Name="VBScript Keyword">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
-      </Color>
       <Color Name="VBScript Comment">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
         <Foreground Type="CT_RAW" Source="FF57A64A" />
       </Color>
-      <Color Name="VBScript Operator">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
-      </Color>
-      <Color Name="VBScript Number">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFB5CEA8" />
-      </Color>
-      <Color Name="VBScript String">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
+      <Color Name="VBScript Function Block Start">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="VBScript Identifier">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
-      <Color Name="VBScript Function Block Start">
-        <Background Type="CT_COLORINDEX" Source="00000001" />
+      <Color Name="VBScript Keyword">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
         <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="VBScript Number">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFB5CEA8" />
+      </Color>
+      <Color Name="VBScript Operator">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
+      </Color>
+      <Color Name="VBScript String">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFD69D85" />
       </Color>
       <Color Name="FileLineClassificationFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1571,6 +1635,14 @@
         <Background Type="CT_RAW" Source="FF274265" />
         <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
+      <Color Name="roslyn test code">
+        <Background Type="CT_RAW" Source="FFE5E5E5" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="roslyn test code markdown">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF00C1" />
+      </Color>
       <Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
         <Background Type="CT_RAW" Source="FF067B7A" />
         <Foreground Type="CT_RAW" Source="FFADC0D3" />
@@ -1662,6 +1734,26 @@
       <Color Name="RazorTagHelperElement">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF006763" />
+      </Color>
+      <Color Name="RazorComponentAttribute">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF800080" />
+      </Color>
+      <Color Name="RazorComponentElement">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF800080" />
+      </Color>
+      <Color Name="RazorDirective">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="RazorDirectiveAttribute">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF800080" />
+      </Color>
+      <Color Name="RazorTransition">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="HtmlClientTemplateValueFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2007,6 +2099,10 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
+      <Color Name="Method">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF74531F" />
+      </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
@@ -2051,9 +2147,13 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
+      <Color Name="StickyScroll Background">
+        <Background Type="CT_RAW" Source="FFF2F8FC" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
       <Color Name="outlining.verticalrule">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA5A5A5" />
       </Color>
       <Color Name="Selected Text in High Contrast">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2676,6 +2776,13 @@
       <Color Name="StatusBannerErrorBorder">
         <Foreground Type="CT_RAW" Source="FFD53230" />
       </Color>
+	  <Color Name="StatusBannerWarning">
+	  	<Background Type="CT_RAW" Source="1EFCE100" />
+	  	<Foreground Type="CT_RAW" Source="FF1E1E1E" />
+	  </Color>
+	  <Color Name="StatusBannerWarningBorder">
+	  	<Foreground Type="CT_RAW" Source="FFFCE100" />
+	  </Color>
       <Color Name="PageBackground">
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
@@ -3005,6 +3112,12 @@
       <Color Name="ToolbarTextDisabled">
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
+      <Color Name="TreeContentSelectedHyperlink">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="TreeContentSelectedHyperlinkHover">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
       <Color Name="VizSurfaceBrown">
         <Background Type="CT_RAW" Source="FF50301A" />
       </Color>
@@ -3038,6 +3151,32 @@
       <Color Name="Plain Text">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+    </Category>
+    <Category Name="EditorOverride" GUID="{656339d7-0e39-43e2-98aa-becc3f87ffa5}">
+      <Color Name="PopupBackground">
+        <Background Type="CT_RAW" Source="FFF6F6F6" />
+      </Color>
+      <Color Name="PopupBorder">
+        <Background Type="CT_RAW" Source="FFCCCEDB" />
+      </Color>
+      <Color Name="PopupLink">
+        <Background Type="CT_RAW" Source="FF006CBE" />
+      </Color>
+      <Color Name="PopupSelectedBackground">
+        <Background Type="CT_RAW" Source="FFCCCEDB" />
+      </Color>
+      <Color Name="PopupSelectedText">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="PopupShadow">
+        <Background Type="CT_RAW" Source="72000000" />
+      </Color>
+      <Color Name="PopupSubtleText">
+        <Background Type="CT_RAW" Source="FF808080" />
+      </Color>
+      <Color Name="PopupText">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
     </Category>
     <Category Name="Environment" GUID="{624ed9c3-bdfd-41fa-96c3-7c824ea32e3d}">
@@ -5433,7 +5572,7 @@
       </Color>
       <Color Name="outlining.verticalrule">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA5A5A5" />
       </Color>
       <Color Name="Selected Text in High Contrast">
         <Background Type="CT_RAW" Source="FF03A7A3" />
@@ -8146,6 +8285,9 @@
       </Color>
     </Category>
     <Category Name="UserInformation" GUID="{b6d9f1fc-e422-4755-a014-3fb666d831dc}">
+      <Color Name="ActiveAccountText">
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
       <Color Name="IDCardText">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
