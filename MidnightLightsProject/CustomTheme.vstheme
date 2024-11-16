@@ -2151,6 +2151,14 @@
         <Background Type="CT_RAW" Source="FFF2F8FC" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
+      <Color Name="outlining.chevron.collapsed">
+        <Background Type="CT_RAW" Source="FF03A7A3" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+      <Color Name="outlining.chevron.expanded">
+        <Background Type="CT_RAW" Source="FF25456D" />
+        <Foreground Type="CT_RAW" Source="FFA5A5A5" />
+      </Color>
       <Color Name="outlining.verticalrule">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFA5A5A5" />
@@ -2776,13 +2784,13 @@
       <Color Name="StatusBannerErrorBorder">
         <Foreground Type="CT_RAW" Source="FFD53230" />
       </Color>
-	  <Color Name="StatusBannerWarning">
-	  	<Background Type="CT_RAW" Source="1EFCE100" />
-	  	<Foreground Type="CT_RAW" Source="FF1E1E1E" />
-	  </Color>
-	  <Color Name="StatusBannerWarningBorder">
-	  	<Foreground Type="CT_RAW" Source="FFFCE100" />
-	  </Color>
+      <Color Name="StatusBannerWarning">
+        <Background Type="CT_RAW" Source="1EFCE100" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="StatusBannerWarningBorder">
+        <Foreground Type="CT_RAW" Source="FFFCE100" />
+      </Color>
       <Color Name="PageBackground">
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
@@ -5569,6 +5577,14 @@
       <Color Name="Collapsible Text (Expanded)">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="outlining.chevron.collapsed">
+        <Background Type="CT_RAW" Source="FF03A7A3" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+      <Color Name="outlining.chevron.expanded">
+        <Background Type="CT_RAW" Source="FF25456D" />
+        <Foreground Type="CT_RAW" Source="FFA5A5A5" />
       </Color>
       <Color Name="outlining.verticalrule">
         <Background Type="CT_INVALID" Source="00000000" />

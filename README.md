@@ -20,6 +20,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v1.7.5
+
+- Dim 17.12 outline chevrons 😎
+
 ### v1.7.2-4
 
 - Add "Theme" to title for SEO 🔍
