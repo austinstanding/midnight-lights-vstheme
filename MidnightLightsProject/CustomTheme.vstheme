@@ -8234,7 +8234,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
-      <Color Name="ActionButtonTextActive">
+      <Color Name="ActionButtonBackgroundActive">
         <Background Type="CT_RAW" Source="FF103156" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
