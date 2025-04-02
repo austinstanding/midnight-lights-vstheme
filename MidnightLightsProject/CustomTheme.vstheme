@@ -2192,7 +2192,11 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="StickyScroll Background">
-        <Background Type="CT_RAW" Source="FFF2F8FC" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="StickyScrollLineHighlightFormat">
+        <Background Type="CT_RAW" Source="FF111924" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="outlining.chevron.collapsed">
