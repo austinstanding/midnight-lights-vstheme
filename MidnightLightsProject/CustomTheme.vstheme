@@ -3516,7 +3516,7 @@
         <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ComboBoxPopupBorder">
-        <Background Type="CT_RAW" Source="FF0D101B" />
+        <Background Type="CT_RAW" Source="FF103E54" />
       </Color>
       <Color Name="CommandBarCheckBox">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -3528,7 +3528,7 @@
         <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="CommandBarMenuBorder">
-        <Background Type="CT_RAW" Source="FF0D101B" />
+        <Background Type="CT_RAW" Source="FF103E54" />
       </Color>
       <Color Name="CommandBarMenuIconBackground">
         <Background Type="CT_RAW" Source="FF04071F" />
@@ -3537,7 +3537,7 @@
         <Background Type="CT_RAW" Source="FF03A7A3" />
       </Color>
       <Color Name="CommandBarMenuSeparator">
-        <Background Type="CT_RAW" Source="FF0D101B" />
+        <Background Type="CT_RAW" Source="FF103E54" />
       </Color>
       <Color Name="CommandBarMenuSubmenuGlyph">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -3603,7 +3603,7 @@
         <Background Type="CT_RAW" Source="FF0D101B" />
       </Color>
       <Color Name="CommandBarToolBarSeparator">
-        <Background Type="CT_RAW" Source="FF222222" />
+        <Background Type="CT_RAW" Source="FF103E54" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientBegin">
         <Background Type="CT_RAW" Source="FF0D101B" />
