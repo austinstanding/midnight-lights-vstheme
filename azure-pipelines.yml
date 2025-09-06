@@ -2,7 +2,7 @@ trigger:
 - '*' # Run the pipeline for each commit
 
 pool:
-  vmImage: 'windows-2019' # Windows Server 2019 with Visual Studio 2019
+  vmImage: 'windows-2025' # Windows Server 2025 with Visual Studio 2022
 
 variables:
   major: 7
