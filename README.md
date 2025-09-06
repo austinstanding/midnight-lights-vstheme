@@ -20,45 +20,9 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v1.7.12-14
+### v1.8
 
+- Upgrade pipeline VM 👷
 - Theme the themed dialogs ✨
-- Change combobox, textbox, buttons 🚧
+- Update combobox, textbox, buttons 🚧
 - Dim more backgrounds 😎
-
-### v1.7.11
-
-- Add menu borders 🚸
-
-### v1.7.10
-
-- Fix StickyScroll background 🩹
-
-### v1.7.8-9
-
-- Fix Get Started hover 🩹
-
-### v1.7.7
-
-- Fix 17.13 degradations 🩹
-
-### v1.7.6
-
-- Add support for Android xml ✨
-
-### v1.7.5
-
-- Dim 17.12 outline chevrons 😎
-
-### v1.7.2-4
-
-- Add "Theme" to title for SEO 🔍
-- Support recently added themed items
-
-### v1.7.1
-
-- Support 17.6 native rainbow braces ✨
-
-### v1.7
-
-- Add support for arm64 🔧
