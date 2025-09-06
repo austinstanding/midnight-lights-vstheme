@@ -20,10 +20,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v1.7.12-13
+### v1.7.12-14
 
 - Theme the themed dialogs ✨
-- Change combobox, textbox, buttons
+- Change combobox, textbox, buttons 🚧
 - Dim more backgrounds 😎
 
 ### v1.7.11

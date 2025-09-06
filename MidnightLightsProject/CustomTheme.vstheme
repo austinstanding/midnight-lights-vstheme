@@ -800,7 +800,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="SnapshotButtonBorder">
-        <Background Type="CT_RAW" Source="FF555555" />
+        <Background Type="CT_RAW" Source="FF103E54" />
       </Color>
       <Color Name="SnapshotButtonBorderActive">
         <Background Type="CT_RAW" Source="FF3399FF" />
@@ -2269,7 +2269,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FF555555" />
+        <Background Type="CT_RAW" Source="FF103E54" />
       </Color>
       <Color Name="ButtonDefault">
         <Background Type="CT_RAW" Source="FF103156" />
@@ -2502,10 +2502,10 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="InnerTabInactiveHoverBackground">
-        <Background Type="CT_RAW" Source="FF555555" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="InnerTabInactiveHoverBorder">
-        <Background Type="CT_RAW" Source="FF555555" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="InnerTabInactiveHoverText">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -4851,10 +4851,10 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="FileTabProvisionalInactive">
-        <Background Type="CT_RAW" Source="FF0D101B" />
+        <Background Type="CT_RAW" Source="FF442359" />
       </Color>
       <Color Name="FileTabProvisionalInactiveBorder">
-        <Background Type="CT_RAW" Source="FF0D101B" />
+        <Background Type="CT_RAW" Source="FF442359" />
       </Color>
       <Color Name="FileTabProvisionalInactiveForeground">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -6987,7 +6987,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FF555555" />
+        <Background Type="CT_RAW" Source="FF103E54" />
       </Color>
       <Color Name="ButtonPressed">
         <Background Type="CT_RAW" Source="FF03A7A3" />
@@ -7359,7 +7359,7 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="TextBox">
-        <Background Type="CT_RAW" Source="FF04071F" />
+        <Background Type="CT_RAW" Source="FF111924" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="TextBoxBorder">
