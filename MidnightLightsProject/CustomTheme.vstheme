@@ -781,7 +781,8 @@
         <Foreground Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="ArtboardSecondaryBackgroundAlternate">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF0D101B" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
     </Category>
     <Category Name="ClientDiagnosticsMemory" GUID="{4ec0c2e0-c165-47be-9f29-2d2b73ad3e93}">
@@ -6021,7 +6022,7 @@
         <Background Type="CT_RAW" Source="FF6F88A4" />
       </Color>
       <Color Name="GridLines">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FFC5C5C5" />
       </Color>
       <Color Name="SelectedCellBorder">
         <Background Type="CT_RAW" Source="FFA0A0A0" />
