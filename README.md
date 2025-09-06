@@ -20,6 +20,11 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v1.7.12
+
+- Theme the themed dialogs ✨
+- Dim more backgrounds 😎
+
 ### v1.7.11
 
 - Add menu borders 🚸
