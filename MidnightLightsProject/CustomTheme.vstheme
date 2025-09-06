@@ -2469,7 +2469,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ComboBoxListBackground">
-        <Background Type="CT_RAW" Source="FF1F1F1C" />
+        <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ComboBoxListBorder">
         <Background Type="CT_RAW" Source="FF103156" />
@@ -5019,7 +5019,7 @@
         <Background Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="DropDownButtonMouseOverSeparator">
-        <Background Type="CT_RAW" Source="FF03A7A3" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="DropDownButtonMouseDownBackground">
         <Background Type="CT_RAW" Source="FF03A7A3" />
@@ -7180,7 +7180,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ComboBoxListBackground">
-        <Background Type="CT_RAW" Source="FF1F1F1C" />
+        <Background Type="CT_RAW" Source="FF04071F" />
       </Color>
       <Color Name="ComboBoxListBorder">
         <Background Type="CT_RAW" Source="FF103156" />
@@ -7359,7 +7359,7 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="TextBox">
-        <Background Type="CT_RAW" Source="FF333333" />
+        <Background Type="CT_RAW" Source="FF04071F" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="TextBoxBorder">
@@ -7386,10 +7386,10 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ButtonMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF3F5D7D" />
+        <Background Type="CT_RAW" Source="FF009994" />
       </Color>
       <Color Name="ButtonMouseOver">
-        <Background Type="CT_RAW" Source="FF3E424F" />
+        <Background Type="CT_RAW" Source="FF009994" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonDisabled">
@@ -7397,7 +7397,7 @@
         <Foreground Type="CT_RAW" Source="FF6D6D6D" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FF3E424F" />
+        <Background Type="CT_RAW" Source="FF103E54" />
       </Color>
       <Color Name="Button">
         <Background Type="CT_RAW" Source="FF103156" />
