@@ -4,11 +4,11 @@
                  xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="MidnightLights.e1e706e2-05d3-4da9-8754-652cd8ab65f4"
-                  Version="1.8"
+                  Version="2.0"
                   Language="en-US"
                   Publisher="Austin Standing" />
         <DisplayName>Midnight Lights Theme</DisplayName>
-        <Description xml:space="preserve">Midnight Lights is an original dark blue theme for Visual Studio 2019 and 2022.</Description>
+        <Description xml:space="preserve">Midnight Lights is an original dark theme for Visual Studio 2019, 2022, and 2026.</Description>
         <MoreInfo>https://github.com/austinstanding/midnight-lights-vstheme</MoreInfo>
         <Icon>midnight_lights_preview.png</Icon>
         <PreviewImage>screenshot1.png</PreviewImage>
@@ -17,10 +17,10 @@
 		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0,17.0)">
 			<ProductArchitecture>x86</ProductArchitecture>
 		</InstallationTarget>
-		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,18.0)">
+		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,19.0)">
 			<ProductArchitecture>amd64</ProductArchitecture>
 		</InstallationTarget>
-		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,18.0)">
+		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,19.0)">
 			<ProductArchitecture>arm64</ProductArchitecture>
 		</InstallationTarget>
     </Installation>

@@ -5,7 +5,7 @@ pool:
   vmImage: 'windows-2025' # Windows Server 2025 with Visual Studio 2022
 
 variables:
-  major: 8
+  major: 0
   # minor will be incremented at each build. This is useful to create a unique build version.
   minor: $[counter(variables['major'], 0)]
   solution: '**/*.sln'
@@ -13,7 +13,7 @@ variables:
   buildConfiguration: 'Release'
   DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 1
 
-name: 1.$(major).$(minor) # Set the value of $(Build.BuildNumber)
+name: 2.$(major).$(minor) # Set the value of $(Build.BuildNumber)
 
 steps:
 - task: PowerShell@2
