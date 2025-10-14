@@ -3212,31 +3212,31 @@
     </Category>
     <Category Name="EditorOverride" GUID="{656339d7-0e39-43e2-98aa-becc3f87ffa5}">
       <Color Name="PopupBackground">
-        <Background Type="CT_RAW" Source="FFF6F6F6" />
+        <Background Type="CT_RAW" Source="FF0A1C3B" />
       </Color>
       <Color Name="PopupBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FF454545" />
       </Color>
       <Color Name="PopupHyperlink">
-        <Background Type="CT_RAW" Source="FF006CBE" />
+        <Background Type="CT_RAW" Source="FF55AAFF" />
       </Color>
       <Color Name="PopupLink">
-        <Background Type="CT_RAW" Source="FF006CBE" />
+        <Background Type="CT_RAW" Source="FF55AAFF" />
       </Color>
       <Color Name="PopupSelectedBackground">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FF1E2F4B" />
       </Color>
       <Color Name="PopupSelectedText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="PopupShadow">
         <Background Type="CT_RAW" Source="72000000" />
       </Color>
       <Color Name="PopupSubtleText">
-        <Background Type="CT_RAW" Source="FF808080" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="PopupText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
     </Category>
     <Category Name="Environment" GUID="{624ed9c3-bdfd-41fa-96c3-7c824ea32e3d}">
@@ -6918,7 +6918,7 @@
         <Background Type="CT_RAW" Source="FF0A0A0A" />
       </Color>
       <Color Name="SolidBackgroundFillQuaternary">
-        <Background Type="CT_RAW" Source="FF2C2C2C" />
+        <Background Type="CT_RAW" Source="FF171A2A" />
       </Color>
       <Color Name="SolidBackgroundFillQuinary">
         <Background Type="CT_RAW" Source="FF333333" />
@@ -6927,7 +6927,7 @@
         <Background Type="CT_RAW" Source="FF0D101B" />
       </Color>
       <Color Name="SolidBackgroundFillSenary">
-        <Background Type="CT_RAW" Source="FF373737" />
+        <Background Type="CT_RAW" Source="FF03A7A3" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
         <Background Type="CT_RAW" Source="FF0A1C3B" />
@@ -6936,10 +6936,10 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="SubtleFillSecondary">
-        <Background Type="CT_RAW" Source="FF009994" />
+        <Background Type="CT_RAW" Source="FF067B7A" />
       </Color>
       <Color Name="SubtleFillTertiary">
-        <Background Type="CT_RAW" Source="FF067B7A" />
+        <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="SubtleFillTransparent">
         <Background Type="CT_RAW" Source="00FFFFFF" />
