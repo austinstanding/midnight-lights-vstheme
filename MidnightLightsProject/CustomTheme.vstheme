@@ -8250,20 +8250,20 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Coverage Touched Area">
-        <Background Type="CT_RAW" Source="FF5FCAC8" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF151F51" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Coverage Not Touched Area">
-        <Background Type="CT_RAW" Source="FFEDE0D1" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF7B6828" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Breakpoint - Selected">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF888888" />
       </Color>
       <Color Name="Coverage Partially Touched Area">
-        <Background Type="CT_RAW" Source="FF9EB4CB" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF234D58" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Breakpoint (Enabled)">
         <Background Type="CT_RAW" Source="FF8C2F2F" />
