@@ -6930,7 +6930,7 @@
         <Background Type="CT_RAW" Source="FF03A7A3" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="FF0A1C3B" />
+        <Background Type="CT_RAW" Source="FF07122D" />
       </Color>
       <Color Name="SubtleFillDisabled">
         <Background Type="CT_RAW" Source="00FFFFFF" />
