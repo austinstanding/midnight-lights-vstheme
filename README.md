@@ -20,6 +20,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
+### v2.0.7
+
+- Fix menu breaking change 🩹
+
 ### v2.0.4-6
 
 - Dim panels and active filetab 😎

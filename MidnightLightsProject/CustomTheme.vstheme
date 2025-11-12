@@ -6944,6 +6944,9 @@
       <Color Name="SubtleFillTransparent">
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
+      <Color Name="SurfaceBackgroundFillDefault">
+        <Background Type="CT_RAW" Source="FF0E162E" />
+      </Color>
       <Color Name="SurfaceStrokeDefault">
         <Background Type="CT_RAW" Source="66757575" />
       </Color>
