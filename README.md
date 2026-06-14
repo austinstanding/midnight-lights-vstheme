@@ -23,6 +23,7 @@ With introduction of breaking changes or new themed features previous elements a
 ### v2.0.9
 
 - Fix shell breaking changes 🩹
+- Tweak SQL colorization 🚧
 
 ### v2.0.8
 
