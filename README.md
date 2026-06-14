@@ -20,13 +20,10 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v2.0.9
+### v2.0.8
 
 - Fix shell breaking changes 🩹
 - Tweak SQL colorization 🚧
-
-### v2.0.8
-
 - Add fallback to standard dark theme ➕
 
 ### v2.0.7
