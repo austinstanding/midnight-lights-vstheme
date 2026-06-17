@@ -20,7 +20,7 @@ With introduction of breaking changes or new themed features previous elements a
 
 ## Release Notes
 
-### v2.0.8
+### v2.0.8-9
 
 - Fix shell breaking changes 🩹
 - Tweak SQL colorization 🚧
